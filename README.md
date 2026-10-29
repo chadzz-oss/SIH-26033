@@ -29,7 +29,9 @@ Benefits:
 
 ## Proposed Solution
 We propose FarmDirect, a digital marketplace that connects farmers and Farmer Producer Organizations (FPOs) directly with consumers, retailers, restaurants, and bulk buyers.
+
 The platform allows farmers to list their products, specify quantities, set prices, and receive orders without depending on multiple intermediaries. Consumers can compare prices and purchase fresh agricultural products at affordable rates.
+
 The platform also provides logistics support by connecting farmers with transport providers. Artificial Intelligence (AI) is used to forecast demand, suggest suitable prices, and optimize delivery routes.
 
 ## Technical Approach
