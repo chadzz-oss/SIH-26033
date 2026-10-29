@@ -38,8 +38,11 @@ The platform also provides logistics support by connecting farmers with transpor
 The platform will be developed as a web and mobile application.
 
 Technologies to Be Used:
+
 Frontend: HTML, CSS, JavaScript and React.
+
 Backend: Python with Django.
+
 Database: PostgreSQL or MySQL.
 AI and Machine Learning: Python libraries such as Scikit-learn for demand forecasting.
 Maps and Logistics: Mapping APIs for route optimization.
